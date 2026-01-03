@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "slug": "ornek-urun",
+    "name_tr": "Örnek Ürün",
+    "description_tr": "Bu ürünün açıklaması buraya yazılır. Daha sonra istediğin gibi değiştirebilirsin.",
+    "image": "https://via.placeholder.com/800x600.png?text=Urun+Gorseli",
+    "active": true
+  }
+]

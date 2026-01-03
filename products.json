@@ -1,16 +1,173 @@
-[
-  {
-    "slug": "urun-1",
-    "name": "Ürün 1",
-    "price": 100,
-    "description": "Açıklama",
-    "active": true
+{
+  "products": [
+    {
+      "slug": "cnc-torna-hidrolik-ara-yatak",
+      "slugEn": "cnc-lathe-hydraulic-steady-rest",
+      "active": true,
+      "name": "CNC Torna Hidrolik Ara Yatak",
+      "nameEn": "CNC Lathe Hydraulic Steady Rest",
+      "description": "4140 ısıl işlem görmüş çelikten üretilen CNC Torna Hidrolik Ara Yataklar, yüksek dayanıklılık ve uzun ömürlü performans sunar. Endüstriyel uygulamalar için ideal çözüm.",
+      "descriptionEn": "CNC Lathe Hydraulic Steady Rests made from 4140 heat-treated steel offer high durability and long-lasting performance. Ideal solution for industrial applications.",
+      "image": "https://ozcanmakine.com/upload/product/cnc-hidrolik-ara-yatak-7bd70.png",
+      "imageMenu": "https://ozcanmakine.com/upload/product/cnc-hidrolik-ara-yatak-5cd69.png",
+      "banner": "https://ozcanmakine.com/upload/banner/cnc-hidrolik-ara-yataklar-dc990.jpg",
+      "gallery": [
+        "https://ozcanmakine.com/upload/product/cnc-hidrolik-ara-yatak-7bd70.png",
+        "https://ozcanmakine.com/upload/product/cnc-hidrolik-ara-yatak-5cd69.png"
+      ],
+      "features": [
+        "4140 ısıl işlem görmüş çelik",
+        "CNC hassasiyetinde üretim",
+        "Yüksek dayanıklılık",
+        "Uzun ömürlü performans"
+      ],
+      "featuresEn": [
+        "4140 heat-treated steel",
+        "CNC precision manufacturing",
+        "High durability",
+        "Long-lasting performance"
+      ]
+    },
+    {
+      "slug": "cnc-torna-hidrolik-ara-yatak-manuel",
+      "slugEn": "cnc-lathe-hydraulic-steady-rest-manual",
+      "active": true,
+      "name": "CNC Torna Hidrolik Ara Yatak Manuel",
+      "nameEn": "CNC Lathe Hydraulic Steady Rest Manual",
+      "description": "Manuel kontrollü CNC Torna Hidrolik Ara Yatak, hassas ayarlama imkanı sunar. Operatör kontrolünde maksimum esneklik sağlar.",
+      "descriptionEn": "Manual controlled CNC Lathe Hydraulic Steady Rest offers precise adjustment. Provides maximum flexibility under operator control.",
+      "image": "https://ozcanmakine.com/upload/product/cnc-manuel-ara-yatak-2cfe4.png",
+      "imageMenu": "https://ozcanmakine.com/upload/product/cnc-manuel-ara-yatak-cc51d.png",
+      "banner": "https://ozcanmakine.com/upload/banner/cnc-manuel-ara-yatak-45353.jpg",
+      "gallery": [
+        "https://ozcanmakine.com/upload/product/cnc-manuel-ara-yatak-2cfe4.png",
+        "https://ozcanmakine.com/upload/product/cnc-manuel-ara-yatak-cc51d.png"
+      ],
+      "features": [
+        "Manuel kontrol sistemi",
+        "Hassas ayarlama",
+        "Kolay kullanım",
+        "Operatör dostu tasarım"
+      ],
+      "featuresEn": [
+        "Manual control system",
+        "Precise adjustment",
+        "Easy to use",
+        "Operator-friendly design"
+      ]
+    },
+    {
+      "slug": "cnc-torna-hidrolik-ara-yatak-manuel-c-tipi",
+      "slugEn": "cnc-lathe-hydraulic-steady-rest-manual-c-type",
+      "active": true,
+      "name": "CNC Torna Hidrolik Ara Yatak Manuel C Tipi",
+      "nameEn": "CNC Lathe Hydraulic Steady Rest Manual C Type",
+      "description": "C tipi tasarımı ile özel uygulamalar için geliştirilmiş manuel hidrolik ara yatak. Zorlu endüstriyel koşullara dayanıklı.",
+      "descriptionEn": "Manual hydraulic steady rest developed for special applications with C-type design. Resistant to challenging industrial conditions.",
+      "image": "https://ozcanmakine.com/upload/product/cnc-c-tipi-manuel-yatak-5a819.png",
+      "imageMenu": "https://ozcanmakine.com/upload/product/cnc-c-tipi-manuel-yatak-6e03b.png",
+      "banner": "https://ozcanmakine.com/upload/banner/cnc-manuel-ara-yatak-45353.jpg",
+      "gallery": [
+        "https://ozcanmakine.com/upload/product/cnc-c-tipi-manuel-yatak-5a819.png",
+        "https://ozcanmakine.com/upload/product/cnc-c-tipi-manuel-yatak-6e03b.png"
+      ],
+      "features": [
+        "C tipi özel tasarım",
+        "Zorlu koşullara dayanıklı",
+        "Özel uygulamalar için ideal",
+        "Yüksek performans"
+      ],
+      "featuresEn": [
+        "C-type special design",
+        "Resistant to harsh conditions",
+        "Ideal for special applications",
+        "High performance"
+      ]
+    },
+    {
+      "slug": "cnc-dik-isleme-ve-taslama-yatak",
+      "slugEn": "cnc-vertical-processing-lathe-steady-rest",
+      "active": true,
+      "name": "CNC Dik İşleme ve Taşlama Yatak",
+      "nameEn": "CNC Vertical Processing Lathe Steady Rest",
+      "description": "Dik işleme ve taşlama operasyonları için özel olarak tasarlanmış yatak sistemi. Hassas işleme gerektiren uygulamalar için mükemmel çözüm.",
+      "descriptionEn": "Specially designed steady rest system for vertical processing and grinding operations. Perfect solution for applications requiring precise machining.",
+      "image": "https://ozcanmakine.com/upload/product/cnc-dik-isleme-ve-taslama-yatak-485db.png",
+      "imageMenu": "https://ozcanmakine.com/upload/product/cnc-dik-isleme-ve-taslama-yatak-9aaba.png",
+      "banner": "https://ozcanmakine.com/upload/banner/cnc-hidrolik-ara-yataklar-dc990.jpg",
+      "gallery": [
+        "https://ozcanmakine.com/upload/product/cnc-dik-isleme-ve-taslama-yatak-485db.png",
+        "https://ozcanmakine.com/upload/product/cnc-dik-isleme-ve-taslama-yatak-9aaba.png"
+      ],
+      "features": [
+        "Dik işleme uyumlu",
+        "Taşlama operasyonları için ideal",
+        "Hassas işleme",
+        "Özel tasarım"
+      ],
+      "featuresEn": [
+        "Compatible with vertical processing",
+        "Ideal for grinding operations",
+        "Precise machining",
+        "Special design"
+      ]
+    }
+  ],
+  "company": {
+    "name": "Özcan CNC Makine",
+    "nameFull": "Özcan CNC Bağlama ve Talaş Kaldırma Çözümleri",
+    "nameFullEn": "Özcan CNC Clamping and Chip Removal Solutions",
+    "phone": "+90 534 620 4281",
+    "email": "info@ozcanmakine.com",
+    "address": "Fevzi Çakmak Mh. Büsan San. 10659. Sk. No:20/A Karatay/Konya",
+    "social": {
+      "facebook": "#",
+      "instagram": "#",
+      "youtube": "#"
+    },
+    "logo": "https://ozcanmakine.com/assets/images/logo.svg",
+    "logoWhite": "https://ozcanmakine.com/assets/images/logo-white.svg",
+    "aboutImage": "https://ozcanmakine.com/upload/ozcan-cnc-baglama-ve-talas-kaldirma-cozumleri-32ea2.png",
+    "about": "20 yılı aşkın sektör deneyimimizle, 4140 ısıl işlem görmüş çelikten üretilen CNC Torna Hidrolik Ara Yataklarımızla sektörde fark yaratıyoruz.",
+    "aboutEn": "With over 20 years of industry experience, we make a difference in the sector with our CNC Lathe Hydraulic Steady Rests made from 4140 tempered steel."
   },
-  {
-    "slug": "urun-2",
-    "name": "Ürün 2",
-    "price": 200,
-    "description": "Açıklama",
-    "active": true
+  "banners": [
+    {
+      "image": "https://ozcanmakine.com/upload/banner/cnc-hidrolik-ara-yataklar-dc990.jpg",
+      "title": "CNC Torna Hidrolik Ara Yatak",
+      "titleEn": "CNC Lathe Hydraulic Steady Rest",
+      "subtitle": "CNC Bağlama ve Talaş Kaldırma Çözümleri",
+      "subtitleEn": "CNC Clamping and Chip Removal Solutions",
+      "link": "cnc-torna-hidrolik-ara-yatak",
+      "linkEn": "cnc-lathe-hydraulic-steady-rest"
+    },
+    {
+      "image": "https://ozcanmakine.com/upload/banner/cnc-manuel-ara-yatak-45353.jpg",
+      "title": "CNC Torna Hidrolik Ara Yatak Manuel",
+      "titleEn": "CNC Lathe Hydraulic Steady Rest Manual",
+      "subtitle": "CNC Bağlama ve Talaş Kaldırma Çözümleri",
+      "subtitleEn": "CNC Clamping and Chip Removal Solutions",
+      "link": "cnc-torna-hidrolik-ara-yatak-manuel",
+      "linkEn": "cnc-lathe-hydraulic-steady-rest-manual"
+    }
+  ],
+  "news": [
+    {
+      "slug": "cnc-hidrolik-ara-yatak-cozumleri-ile-endustriyel-verimliligi-artirin",
+      "slugEn": "increase-industrial-efficiency-with-cnc-lathe-hydraulic-steady-rest-solutions",
+      "active": true,
+      "title": "CNC Hidrolik Ara Yatak Çözümleri ile Endüstriyel Verimliliği Artırın",
+      "titleEn": "Increase Industrial Efficiency with CNC Lathe Hydraulic Steady Rest Solutions",
+      "date": "2025-03-11",
+      "image": "https://ozcanmakine.com/upload/news/cnc-hidrolik-ara-yatak-cozumleri-ile-endustriyel-verimliligi-artirin-70d80.jpg",
+      "summary": "Özcan CNC Makine olarak, endüstriyel verimliliği artıran yüksek kaliteli ve hassas CNC Torna Hidrolik Ara Yatak Çözümleri sunuyoruz.",
+      "summaryEn": "At Özcan CNC Makine, we offer high-quality and precise CNC Lathe Hydraulic Steady Rest Solutions that enhance industrial efficiency.",
+      "content": "Özcan CNC Makine olarak, endüstriyel verimliliği artıran yüksek kaliteli ve hassas CNC Torna Hidrolik Ara Yatak Çözümleri sunuyoruz. Hidrolik ara yataklarımız, 4140 ısıl işlem görmüş çelik kullanılarak üretilmekte olup, dayanıklı ve güvenilir performansıyla uzun ömürlü kullanım sağlar.",
+      "contentEn": "At Özcan CNC Makine, we offer high-quality and precise CNC Lathe Hydraulic Steady Rest Solutions that enhance industrial efficiency. Our hydraulic steady rests are manufactured using 4140 heat-treated steel, providing durable, reliable performance with long-lasting use."
+    }
+  ],
+  "catalog": {
+    "tr": "https://ozcanmakine.com/upload/tr-ozcan-cnc-makine.pdf",
+    "en": "https://ozcanmakine.com/upload/en-ozcan-cnc-makine-8c37f.pdf"
   }
-]
+}
